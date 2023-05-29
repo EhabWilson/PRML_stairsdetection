@@ -1,10 +1,25 @@
 import json
 import random
+import shutil
+import os
 from pathlib import Path
 
-DATA_DIR = '../dataset/public'
+def makedir(new_dir):
+    if not os.path.exists(new_dir):
+        os.makedirs(new_dir)
+DATA_DIR = "."
+# SPLIT_DIR = "../dataset/public_split"   # dir to store splited data
+# TRAIN_DIR = os.path.join(SPLIT_DIR, "train")
+# VALID_DIR = os.path.join(SPLIT_DIR, "valid")
+# TEST_DIR = os.path.join(SPLIT_DIR, "test")
+# makedir(SPLIT_DIR)
+# makedir(TRAIN_DIR)
+# makedir(VALID_DIR)
+# makedir(TEST_DIR)
+
 SEED = 123
 FILE_PREFIX = 'public'
+JSON_DIR = "../../codes/data"
 SPLIT_RATIO = (7, 1, 2)
 
 random.seed(SEED)
@@ -28,11 +43,11 @@ for img_dir in Path(DATA_DIR).rglob('*.jpg'):
     else:
         test_set.append({'dir': img_dir, 'label':label})
 
-with open(f'data/{FILE_PREFIX}_train.json', 'wt') as f:
+with open(f'{JSON_DIR}/{FILE_PREFIX}_train.json', 'wt') as f:
     json.dump(train_set, f, indent=4)
 
-with open(f'data/{FILE_PREFIX}_valid.json', 'wt') as f:
+with open(f'{JSON_DIR}/{FILE_PREFIX}_valid.json', 'wt') as f:
     json.dump(valid_set, f, indent=4)
 
-with open(f'data/{FILE_PREFIX}_test.json', 'wt') as f:
+with open(f'{JSON_DIR}/{FILE_PREFIX}_test.json', 'wt') as f:
     json.dump(test_set, f, indent=4)
