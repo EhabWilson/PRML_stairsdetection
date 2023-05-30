@@ -1,558 +1,558 @@
 [
     {
-        "dir": "..\\dataset\\public\\no_stairs\\IMG_20190414_154557.jpg",
+        "dir": "no_stairs\\IMG_20190414_154557.jpg",
         "label": 0
     },
     {
-        "dir": "..\\dataset\\public\\no_stairs\\IMG_20190414_154612.jpg",
+        "dir": "no_stairs\\IMG_20190414_154612.jpg",
         "label": 0
     },
     {
-        "dir": "..\\dataset\\public\\no_stairs\\IMG_20190414_154647.jpg",
+        "dir": "no_stairs\\IMG_20190414_154647.jpg",
         "label": 0
     },
     {
-        "dir": "..\\dataset\\public\\no_stairs\\IMG_20190414_154803.jpg",
+        "dir": "no_stairs\\IMG_20190414_154803.jpg",
         "label": 0
     },
     {
-        "dir": "..\\dataset\\public\\no_stairs\\IMG_20190415_140241.jpg",
+        "dir": "no_stairs\\IMG_20190415_140241.jpg",
         "label": 0
     },
     {
-        "dir": "..\\dataset\\public\\no_stairs\\IMG_20190513_131138.jpg",
+        "dir": "no_stairs\\IMG_20190513_131138.jpg",
         "label": 0
     },
     {
-        "dir": "..\\dataset\\public\\no_stairs\\IMG_20190513_131907.jpg",
+        "dir": "no_stairs\\IMG_20190513_131907.jpg",
         "label": 0
     },
     {
-        "dir": "..\\dataset\\public\\no_stairs\\IMG_20190513_132112.jpg",
+        "dir": "no_stairs\\IMG_20190513_132112.jpg",
         "label": 0
     },
     {
-        "dir": "..\\dataset\\public\\no_stairs\\IMG_20190513_132736.jpg",
+        "dir": "no_stairs\\IMG_20190513_132736.jpg",
         "label": 0
     },
     {
-        "dir": "..\\dataset\\public\\no_stairs\\IMG_20190513_173112.jpg",
+        "dir": "no_stairs\\IMG_20190513_173112.jpg",
         "label": 0
     },
     {
-        "dir": "..\\dataset\\public\\no_stairs\\IMG_20190513_175219.jpg",
+        "dir": "no_stairs\\IMG_20190513_175219.jpg",
         "label": 0
     },
     {
-        "dir": "..\\dataset\\public\\no_stairs\\IMG_20190524_141215.jpg",
+        "dir": "no_stairs\\IMG_20190524_141215.jpg",
         "label": 0
     },
     {
-        "dir": "..\\dataset\\public\\no_stairs\\IMG_20190524_141309.jpg",
+        "dir": "no_stairs\\IMG_20190524_141309.jpg",
         "label": 0
     },
     {
-        "dir": "..\\dataset\\public\\no_stairs\\IMG_20190524_141311.jpg",
+        "dir": "no_stairs\\IMG_20190524_141311.jpg",
         "label": 0
     },
     {
-        "dir": "..\\dataset\\public\\no_stairs\\IMG_20190524_141943_1.jpg",
+        "dir": "no_stairs\\IMG_20190524_141943_1.jpg",
         "label": 0
     },
     {
-        "dir": "..\\dataset\\public\\no_stairs\\IMG_20190524_143756.jpg",
+        "dir": "no_stairs\\IMG_20190524_143756.jpg",
         "label": 0
     },
     {
-        "dir": "..\\dataset\\public\\no_stairs\\IMG_20190524_143757_1.jpg",
+        "dir": "no_stairs\\IMG_20190524_143757_1.jpg",
         "label": 0
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_130742.jpg",
+        "dir": "stairs\\down\\IMG_20190513_130742.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_130913.jpg",
+        "dir": "stairs\\down\\IMG_20190513_130913.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_131456.jpg",
+        "dir": "stairs\\down\\IMG_20190513_131456.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_131902.jpg",
+        "dir": "stairs\\down\\IMG_20190513_131902.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_131931.jpg",
+        "dir": "stairs\\down\\IMG_20190513_131931.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_132157.jpg",
+        "dir": "stairs\\down\\IMG_20190513_132157.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_132913.jpg",
+        "dir": "stairs\\down\\IMG_20190513_132913.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_133256.jpg",
+        "dir": "stairs\\down\\IMG_20190513_133256.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_133455.jpg",
+        "dir": "stairs\\down\\IMG_20190513_133455.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_172350.jpg",
+        "dir": "stairs\\down\\IMG_20190513_172350.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_172545.jpg",
+        "dir": "stairs\\down\\IMG_20190513_172545.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_172547.jpg",
+        "dir": "stairs\\down\\IMG_20190513_172547.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_172703.jpg",
+        "dir": "stairs\\down\\IMG_20190513_172703.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_173003.jpg",
+        "dir": "stairs\\down\\IMG_20190513_173003.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_173027.jpg",
+        "dir": "stairs\\down\\IMG_20190513_173027.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_173123.jpg",
+        "dir": "stairs\\down\\IMG_20190513_173123.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_173224.jpg",
+        "dir": "stairs\\down\\IMG_20190513_173224.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_173507.jpg",
+        "dir": "stairs\\down\\IMG_20190513_173507.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_173521.jpg",
+        "dir": "stairs\\down\\IMG_20190513_173521.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_173545.jpg",
+        "dir": "stairs\\down\\IMG_20190513_173545.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_174103.jpg",
+        "dir": "stairs\\down\\IMG_20190513_174103.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_174107.jpg",
+        "dir": "stairs\\down\\IMG_20190513_174107.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_174320.jpg",
+        "dir": "stairs\\down\\IMG_20190513_174320.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_174739.jpg",
+        "dir": "stairs\\down\\IMG_20190513_174739.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190513_175116.jpg",
+        "dir": "stairs\\down\\IMG_20190513_175116.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190515_163831.jpg",
+        "dir": "stairs\\down\\IMG_20190515_163831.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190515_163923.jpg",
+        "dir": "stairs\\down\\IMG_20190515_163923.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190515_164513.jpg",
+        "dir": "stairs\\down\\IMG_20190515_164513.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190515_165324.jpg",
+        "dir": "stairs\\down\\IMG_20190515_165324.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190515_170321.jpg",
+        "dir": "stairs\\down\\IMG_20190515_170321.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190515_170921.jpg",
+        "dir": "stairs\\down\\IMG_20190515_170921.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190515_170925.jpg",
+        "dir": "stairs\\down\\IMG_20190515_170925.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190524_135944.jpg",
+        "dir": "stairs\\down\\IMG_20190524_135944.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190524_140058.jpg",
+        "dir": "stairs\\down\\IMG_20190524_140058.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190524_140112.jpg",
+        "dir": "stairs\\down\\IMG_20190524_140112.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190524_140455.jpg",
+        "dir": "stairs\\down\\IMG_20190524_140455.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190524_141038.jpg",
+        "dir": "stairs\\down\\IMG_20190524_141038.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190524_141150.jpg",
+        "dir": "stairs\\down\\IMG_20190524_141150.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190524_142047_1.jpg",
+        "dir": "stairs\\down\\IMG_20190524_142047_1.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190524_143053.jpg",
+        "dir": "stairs\\down\\IMG_20190524_143053.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190524_143218_1.jpg",
+        "dir": "stairs\\down\\IMG_20190524_143218_1.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190524_143326.jpg",
+        "dir": "stairs\\down\\IMG_20190524_143326.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190524_143519.jpg",
+        "dir": "stairs\\down\\IMG_20190524_143519.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190524_143546.jpg",
+        "dir": "stairs\\down\\IMG_20190524_143546.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190524_143648.jpg",
+        "dir": "stairs\\down\\IMG_20190524_143648.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190524_143738.jpg",
+        "dir": "stairs\\down\\IMG_20190524_143738.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190524_143829.jpg",
+        "dir": "stairs\\down\\IMG_20190524_143829.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190524_144007.jpg",
+        "dir": "stairs\\down\\IMG_20190524_144007.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190524_144018.jpg",
+        "dir": "stairs\\down\\IMG_20190524_144018.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190524_144311.jpg",
+        "dir": "stairs\\down\\IMG_20190524_144311.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190524_144311_1.jpg",
+        "dir": "stairs\\down\\IMG_20190524_144311_1.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\down\\IMG_20190524_144534.jpg",
+        "dir": "stairs\\down\\IMG_20190524_144534.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190415_140245.jpg",
+        "dir": "stairs\\up\\IMG_20190415_140245.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190415_140337.jpg",
+        "dir": "stairs\\up\\IMG_20190415_140337.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190415_140350.jpg",
+        "dir": "stairs\\up\\IMG_20190415_140350.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190510_181242.jpg",
+        "dir": "stairs\\up\\IMG_20190510_181242.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190510_181326.jpg",
+        "dir": "stairs\\up\\IMG_20190510_181326.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190510_181331.jpg",
+        "dir": "stairs\\up\\IMG_20190510_181331.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190510_181406.jpg",
+        "dir": "stairs\\up\\IMG_20190510_181406.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190512_175607.jpg",
+        "dir": "stairs\\up\\IMG_20190512_175607.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_130736.jpg",
+        "dir": "stairs\\up\\IMG_20190513_130736.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_131220.jpg",
+        "dir": "stairs\\up\\IMG_20190513_131220.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_131501.jpg",
+        "dir": "stairs\\up\\IMG_20190513_131501.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_131609.jpg",
+        "dir": "stairs\\up\\IMG_20190513_131609.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_132216.jpg",
+        "dir": "stairs\\up\\IMG_20190513_132216.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_132456.jpg",
+        "dir": "stairs\\up\\IMG_20190513_132456.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_132512.jpg",
+        "dir": "stairs\\up\\IMG_20190513_132512.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_132514.jpg",
+        "dir": "stairs\\up\\IMG_20190513_132514.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_132522.jpg",
+        "dir": "stairs\\up\\IMG_20190513_132522.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_132859.jpg",
+        "dir": "stairs\\up\\IMG_20190513_132859.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_133042.jpg",
+        "dir": "stairs\\up\\IMG_20190513_133042.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_133359.jpg",
+        "dir": "stairs\\up\\IMG_20190513_133359.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_172016.jpg",
+        "dir": "stairs\\up\\IMG_20190513_172016.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_172339.jpg",
+        "dir": "stairs\\up\\IMG_20190513_172339.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_172445.jpg",
+        "dir": "stairs\\up\\IMG_20190513_172445.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_172536.jpg",
+        "dir": "stairs\\up\\IMG_20190513_172536.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_172642.jpg",
+        "dir": "stairs\\up\\IMG_20190513_172642.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_172646.jpg",
+        "dir": "stairs\\up\\IMG_20190513_172646.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_172836.jpg",
+        "dir": "stairs\\up\\IMG_20190513_172836.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_173038.jpg",
+        "dir": "stairs\\up\\IMG_20190513_173038.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_173856.jpg",
+        "dir": "stairs\\up\\IMG_20190513_173856.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_173909.jpg",
+        "dir": "stairs\\up\\IMG_20190513_173909.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_174018.jpg",
+        "dir": "stairs\\up\\IMG_20190513_174018.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_174313.jpg",
+        "dir": "stairs\\up\\IMG_20190513_174313.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_174328.jpg",
+        "dir": "stairs\\up\\IMG_20190513_174328.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_174729.jpg",
+        "dir": "stairs\\up\\IMG_20190513_174729.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_175525.jpg",
+        "dir": "stairs\\up\\IMG_20190513_175525.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_175607.jpg",
+        "dir": "stairs\\up\\IMG_20190513_175607.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190513_175609.jpg",
+        "dir": "stairs\\up\\IMG_20190513_175609.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190515_163719.jpg",
+        "dir": "stairs\\up\\IMG_20190515_163719.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190515_164155.jpg",
+        "dir": "stairs\\up\\IMG_20190515_164155.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190515_164319.jpg",
+        "dir": "stairs\\up\\IMG_20190515_164319.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190515_165128.jpg",
+        "dir": "stairs\\up\\IMG_20190515_165128.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190515_170341.jpg",
+        "dir": "stairs\\up\\IMG_20190515_170341.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190515_170539.jpg",
+        "dir": "stairs\\up\\IMG_20190515_170539.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190515_170848.jpg",
+        "dir": "stairs\\up\\IMG_20190515_170848.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_135824.jpg",
+        "dir": "stairs\\up\\IMG_20190524_135824.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_135906.jpg",
+        "dir": "stairs\\up\\IMG_20190524_135906.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_140015.jpg",
+        "dir": "stairs\\up\\IMG_20190524_140015.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_140017.jpg",
+        "dir": "stairs\\up\\IMG_20190524_140017.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_140029.jpg",
+        "dir": "stairs\\up\\IMG_20190524_140029.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_140459.jpg",
+        "dir": "stairs\\up\\IMG_20190524_140459.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_140518.jpg",
+        "dir": "stairs\\up\\IMG_20190524_140518.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_140549.jpg",
+        "dir": "stairs\\up\\IMG_20190524_140549.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_140550.jpg",
+        "dir": "stairs\\up\\IMG_20190524_140550.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_141030.jpg",
+        "dir": "stairs\\up\\IMG_20190524_141030.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_142027.jpg",
+        "dir": "stairs\\up\\IMG_20190524_142027.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_142918.jpg",
+        "dir": "stairs\\up\\IMG_20190524_142918.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_143122.jpg",
+        "dir": "stairs\\up\\IMG_20190524_143122.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_143134.jpg",
+        "dir": "stairs\\up\\IMG_20190524_143134.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_143345.jpg",
+        "dir": "stairs\\up\\IMG_20190524_143345.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_143412.jpg",
+        "dir": "stairs\\up\\IMG_20190524_143412.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_143509.jpg",
+        "dir": "stairs\\up\\IMG_20190524_143509.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_143525.jpg",
+        "dir": "stairs\\up\\IMG_20190524_143525.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_143709.jpg",
+        "dir": "stairs\\up\\IMG_20190524_143709.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_143733.jpg",
+        "dir": "stairs\\up\\IMG_20190524_143733.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_143852.jpg",
+        "dir": "stairs\\up\\IMG_20190524_143852.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_143933.jpg",
+        "dir": "stairs\\up\\IMG_20190524_143933.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_144042.jpg",
+        "dir": "stairs\\up\\IMG_20190524_144042.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_144319_1.jpg",
+        "dir": "stairs\\up\\IMG_20190524_144319_1.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_144552_1.jpg",
+        "dir": "stairs\\up\\IMG_20190524_144552_1.jpg",
         "label": 1
     },
     {
-        "dir": "..\\dataset\\public\\stairs\\up\\IMG_20190524_144747.jpg",
+        "dir": "stairs\\up\\IMG_20190524_144747.jpg",
         "label": 1
     }
 ]
