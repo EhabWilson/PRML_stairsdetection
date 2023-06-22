@@ -4,7 +4,6 @@ from torchvision import datasets, transforms
 from PIL import Image
 import os
 import json
-import matplotlib.pyplot as plt
 
 
 def build_transform(is_train):
@@ -50,12 +49,10 @@ def get_dataloader(data_dir, json_file, batch_size, is_train):
     transform = build_transform(is_train)
     dataset = StairDataset(json_file, data_dir, transform)
     if is_train:
-        loader = DataLoader(dataset, batch_size=batch_size,
-                                num_workers=4, shuffle=True)
+        loader = DataLoader(dataset, batch_size=batch_size, shuffle=True)
         print("Train loader is prepared.")
     else:
-        loader = DataLoader(dataset, batch_size=batch_size,
-                            num_workers=4, shuffle=False)
+        loader = DataLoader(dataset, batch_size=batch_size, shuffle=False)
         print("Test loader is prepared.")
 
     return loader
